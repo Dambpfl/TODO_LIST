@@ -1,0 +1,36 @@
+/* BODY */
+body {
+    width: 100%;
+    margin: 2%;
+ }
+
+#btn {
+    width: 90%;
+    margin: 1%;
+}
+
+ #todoCards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* A LA LIGNE SI PLUS DE PLACE SUR LA PAGE*/
+    padding-top: 2%;
+    margin: 1%;
+    gap: 10px;
+ }
+
+ .todoCard {
+    position: relative;
+ }
+
+ .delBtn {
+    position: absolute;
+    display: flex;
+    top: 90%;
+    left: 85%;
+    cursor: pointer;
+ }
+
+
+.countCard {
+   margin: 1%;
+}
