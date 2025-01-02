@@ -18,6 +18,7 @@ Créer des interactions pour les utilisateurs
 <h2>Languages</h2>
 
 - HTML5
+- CSS3
 - JavaScript
 
 <h2>Outils</h2>
